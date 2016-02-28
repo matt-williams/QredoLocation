@@ -1,0 +1,10 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/app/libs/qredo-android-sdk-0.8.jar
+/app/src/main/res/values/secrets.xml
