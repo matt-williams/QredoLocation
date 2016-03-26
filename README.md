@@ -19,4 +19,4 @@ Then, use Android Studio or Gradle.
 
 # Qredo Hackathon
 
-This was an entry for the Qredo Hackathon, held at IDEALondon on 5-6 March 2016, and placed joint first - see coverage parts [1](http://blog.qredo.com/post/102d7jg/the-qredo-hackathon-day-1-its-all-about-the-code) and [2](http://blog.qredo.com/post/102d7kx/the-qredo-hackathon-day-2-judgement-day).
+This was an entry for the Qredo Hackathon, held at CodeNode in London on 5-6 March 2016, and placed joint first - see coverage parts [1](http://blog.qredo.com/post/102d7jg/the-qredo-hackathon-day-1-its-all-about-the-code) and [2](http://blog.qredo.com/post/102d7kx/the-qredo-hackathon-day-2-judgement-day).
